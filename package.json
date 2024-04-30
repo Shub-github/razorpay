@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "start:port": "PORT=4000 node index.js"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.3",
